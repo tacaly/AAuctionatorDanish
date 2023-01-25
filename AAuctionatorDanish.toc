@@ -1,0 +1,6 @@
+## Interface: 100002
+## Title: Auctionator Danish Translation Module
+## Version: a52dfba
+## Author: Tacaly
+
+Translations.lua
