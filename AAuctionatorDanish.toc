@@ -1,4 +1,4 @@
-## Interface: 100002
+## Interface: 100005
 ## Title: Auctionator Danish Translation Module
 ## Version: a52dfba
 ## Author: Tacaly
