@@ -9,3 +9,6 @@
 Ask for features either on the [Discord](https://discord.gg/d4FWZWnQCY) or by
 creating a new issue on the
 [issues page](https://github.com/tacaly/AAuctionatorDanish/issues).
+
+## This Repo is the personal test repo for the Danish translation, it is NOT the official one.
+https://github.com/Auctionator/AAuctionatorDanish
